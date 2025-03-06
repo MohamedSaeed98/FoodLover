@@ -265,7 +265,10 @@ header * {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 50px;
+    /* margin: 60px; */
+    margin-right: 10px;
+    margin-left: 10px;
+
 }
 
 #menu .menu-items .menu-item img {
@@ -278,7 +281,7 @@ header * {
     color: #383848;
     border-bottom: 1px dashed #c2bdbd;
     padding: 5px;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 800;
     margin-bottom: 20px;
     position: relative;
@@ -292,7 +295,7 @@ header * {
 
 #menu .menu-items .menu-item span {
     position: absolute;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 600;
     top: 0;
     right: 0;
